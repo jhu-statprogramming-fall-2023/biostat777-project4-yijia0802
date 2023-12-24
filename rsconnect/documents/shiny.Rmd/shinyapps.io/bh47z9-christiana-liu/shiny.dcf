@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: bh47z9-christiana-liu
+account: bh47z9-christiana-liu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10843107
+bundleId: 8080210
+url: https://bh47z9-christiana-liu.shinyapps.io/shiny/
+version: 1
